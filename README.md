@@ -1,7 +1,7 @@
 **CREDITS**
 Used heyjoeway's Sonic 2 Community's Cut
 Used heyjoeway's Quick N' Dirty Sonic ROM Widescreen Patcher.
-Used gabomdq's Game Controller DB project.
+Used gabomdq's Game Controller DB.
 
 7z Standalone Console by 7zip
 
