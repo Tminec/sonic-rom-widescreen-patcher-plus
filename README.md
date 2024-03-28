@@ -1,4 +1,4 @@
-CREDITS
+**CREDITS**
 Used heyjoeway's s2cx (Sonic 2 Community's Cut) project for running the rom.
 Used heyjoeway's Quick N' Dirty Sonic ROM Widescreen Patcher.
 Used gabomdq's Game Controller DB project.
