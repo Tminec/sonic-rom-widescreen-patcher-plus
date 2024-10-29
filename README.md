@@ -6,5 +6,5 @@ Used heyjoeway's [Quick N' Dirty Sonic ROM Widescreen Patcher](https://github.co
 
 7z Standalone Console by [7zip](https://www.7-zip.org/)
 
-Batch Scripts by [BeLuFaaFPS](https://github.com/tminec)
+Batch Scripts (Automation) by [AnakamaTheHedgehog](https://github.com/tminec)
 (ME)
