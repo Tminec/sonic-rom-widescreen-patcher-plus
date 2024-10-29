@@ -1,4 +1,4 @@
-**CREDITS**
+# **CREDITS**
 
 Used heyjoeway's [Sonic 2 Community's Cut](https://github.com/heyjoeway/s2cx)
 
